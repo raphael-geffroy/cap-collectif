@@ -32,7 +32,7 @@ Indexation Elasticsearch
       capco:es:migrate                            
       capco:es:populate     
 
-Importer les fixtures de pro ou benchmark
+Importer les fixtures de prod ou benchmark
 
       capco:load-benchmark-data                   
       capco:load-prod-data
